@@ -4,7 +4,7 @@ public class e136 {
     /* 136. Single Number*/
 
     public static void main(String[] args) {
-        int[] nums = {4,9,5};
+        int[] nums = {5,9,5};
         System.out.println(singleNumber(nums));
     }
     public static int singleNumber(int[] nums) {
