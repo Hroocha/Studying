@@ -1,6 +1,6 @@
 package algorithms;
 
-public class Sorting {
+public class MergeSort {
 
     public static void main(String[] args) {
         int [] arr = {7,3,1,7,0,43,9,912,4,7,90,2};
