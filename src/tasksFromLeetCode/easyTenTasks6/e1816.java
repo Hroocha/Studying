@@ -1,4 +1,4 @@
-package tasksFromLeetCode.easyTenTasks;
+package tasksFromLeetCode.easyTenTasks6;
 
 public class e1816 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package tasksFromLeetCode.easyTenTasks;
+package tasksFromLeetCode.easyTenTasks6;
 
 public class e3178 {
     /*3178. Find the Child Who Has the Ball After K Seconds*/
